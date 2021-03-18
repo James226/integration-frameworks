@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationFrameworks.NUnit", "IntegrationFrameworks.NUnit\IntegrationFrameworks.NUnit.csproj", "{DE1F0CA2-9FC2-4119-9213-784C5EB5D8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationFrameworks.XUnit", "IntegrationFrameworks.XUnit\IntegrationFrameworks.XUnit.csproj", "{6C245B7A-EB87-4595-91DD-DEB6E7D0E9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationFrameworks.Api", "IntegrationFrameworks.Api\IntegrationFrameworks.Api.csproj", "{545C381F-54F0-4C3C-ABC8-7C0D1C79CFC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE1F0CA2-9FC2-4119-9213-784C5EB5D8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1F0CA2-9FC2-4119-9213-784C5EB5D8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1F0CA2-9FC2-4119-9213-784C5EB5D8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1F0CA2-9FC2-4119-9213-784C5EB5D8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C245B7A-EB87-4595-91DD-DEB6E7D0E9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C245B7A-EB87-4595-91DD-DEB6E7D0E9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C245B7A-EB87-4595-91DD-DEB6E7D0E9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C245B7A-EB87-4595-91DD-DEB6E7D0E9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545C381F-54F0-4C3C-ABC8-7C0D1C79CFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545C381F-54F0-4C3C-ABC8-7C0D1C79CFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545C381F-54F0-4C3C-ABC8-7C0D1C79CFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545C381F-54F0-4C3C-ABC8-7C0D1C79CFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
